@@ -1,0 +1,1 @@
+ C:\\Users\\Rob\\Documents\\kupfuma\ app\\kupfuma-master\\.dart_tool\\flutter_build\\f3ce33c35b079e691f0fa263bbf15b90\\native_assets.yaml: 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">865962265958-9lqnaao98qkrns6vhgeh2259bnp812ga.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://kupfuma-62764-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">865962265958</string>
+    <string name="google_api_key" translatable="false">AIzaSyDAc-ZpsefegQeMoHi-vTBMExnpQdkYiao</string>
+    <string name="google_app_id" translatable="false">1:865962265958:android:be3ac572de1860a39ccca7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDAc-ZpsefegQeMoHi-vTBMExnpQdkYiao</string>
+    <string name="google_storage_bucket" translatable="false">kupfuma-62764.appspot.com</string>
+    <string name="project_id" translatable="false">kupfuma-62764</string>
+</resources>
